@@ -1,5 +1,5 @@
 # Nouvelle Light
-A light Xcode color scheme created specifically for Swift. Now uses SFMono.
+A light Xcode color scheme created specifically for Swift.
 
 Best installed through [Alcatraz](http://alcatraz.io)
 
