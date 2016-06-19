@@ -1,5 +1,5 @@
 # Nouvelle Light
-A light Xcode color scheme created specifically for Swift. Uses Menlo, but works best with Operator Mono.
+A light Xcode color scheme created specifically for Swift. Now uses SFMono.
 
 Best installed through [Alcatraz](http://alcatraz.io)
 
